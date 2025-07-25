@@ -12,7 +12,7 @@ if choice1 == "left":
                        "There is house with three doors . one red, "
                        "one yellow and one blue."
                        "which colour do you choose?\n") .lower()
-        if choice3 == "Red":
+        if choice3 == "red":
             print (" room full of fire.Game over")
         elif choice3=="yellow":
             print("you found the treasure.you win")
